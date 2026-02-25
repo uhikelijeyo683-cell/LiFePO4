@@ -1,0 +1,5 @@
+{
+  "name": "LFP Cold Charge Visualizer",
+  "description": "Interactive visualization of LiFePO4 battery charging processes at low temperatures, featuring thermodynamic vs kinetic conflict analysis and AI video generation.",
+  "requestFramePermissions": []
+}
